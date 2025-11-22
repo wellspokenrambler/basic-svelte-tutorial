@@ -1,1 +1,25 @@
 @import 'tailwindcss';
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.75rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem; 
+}
+
+a,button {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+ul li {
+    list-style-type: disc;
+    margin-left: 1rem;
+}
+ol li {
+    list-style-type: number;
+    margin-left: 1rem;
+}
