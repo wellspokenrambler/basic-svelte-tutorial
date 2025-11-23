@@ -34,6 +34,7 @@
 		"vite": "^7.2.2"
 	},
 	"dependencies": {
-		"tippy.js": "^6.3.7"
+		"tippy.js": "^6.3.7",
+		"wrangler": "^4.50.0"
 	}
 }
